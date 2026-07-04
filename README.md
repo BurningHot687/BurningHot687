@@ -1,11 +1,19 @@
-Hello.
+Hello, I am **BurningHot687 🟥🟩🟦**, and I AM HERE now.
 
-I am **BurningHot687**, and **I AM HERE**. I'd consider myself a high schooler who might be a polymath.
+### About Me
+* High schooler learning how to sometimes be professional
+* Driven to design elegant solutions to complex problems
+* Otherwise pretty silly :3
+* `Option3<he, she, it>`
 
-Instead of putting my whole life story or even just my experience with programming, I just want to ask if you've also just went to the wrong place in your home to do something, and then realized that and had to go to the correct place?
-
-Cheers!
-
-GPG Test lol, 2nd GPG Test lol
+### Around the Web
+While you can't prove it's me without my *GPG signature*, you will be able to spot my username or profile picture in some places on the internet. Be on the lookout for these usernames:
+* BurningHot687
+* BurningHot678
+* BH687 *(shorthand)*
+* Tree17Gamer
+* TopHatter64
+* Chess_First_Mirror
+* Raichu-Model/-Rig/-Render/-Tutor
 
 \
