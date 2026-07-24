@@ -19,6 +19,8 @@ While you can't prove it's me without my *GPG signature*, you will be able to sp
 
 ---
 ### Very Incomplete Server
+
+I have a server for all my things. If you need to reach out to me, I would prefer it happen in here for now. However, note it is incomplete and plans for things I haven't started yet, so I am unsure how comfortable it'd be for you guys lol.
 [![Static Badge](https://img.shields.io/badge/Discord--%237289DA?style=for-the-badge&logo=discord&logoColor=%237289DA)](https://discord.gg/EMuQXTnfA)
 ###### If the above invite link doesn't work, please leave an issue so I may pull up a new invite link
 
