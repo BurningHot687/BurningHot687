@@ -17,7 +17,6 @@ While you can't prove it's me without my *GPG signature*, you will be able to sp
 * Chess_First_Mirror
 * Raichu-Model/-Rig/-Render/-Tutor
 
----
 ### Very Incomplete Server
 
 I have a server for all my things. If you need to reach out to me, I would prefer it happen in here for now. However, note it is incomplete and plans for things I haven't started yet, so I am unsure how comfortable it'd be for you guys lol.
