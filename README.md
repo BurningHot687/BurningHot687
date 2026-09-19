@@ -8,7 +8,7 @@ Hello, I am **BurningHot687 🟥🟩🟦**, and I AM HERE now.
 * Needs to learn how to not get distracted
 
 ### Around the Web
-While you can't prove it's me without my *GPG signature*, you will be able to spot my username or profile picture in some places on the internet. Be on the lookout for these usernames:
+While you can't prove it's me without my *GPG signature*, you will be able to spot my username or profile picture in some places on the internet. Be on the lookout for these **usernames**:
 * BurningHot687
 * BurningHot678
 * BH687 *(shorthand)*
@@ -16,6 +16,15 @@ While you can't prove it's me without my *GPG signature*, you will be able to sp
 * TopHatter64
 * Chess_First_Mirror
 * Raichu-Model/-Rig/-Render/-Tutor
+
+There are also some specific **places** you may find me at:
+* Scratch
+* Zooniverse
+* YouTube
+* Discord
+* Geometry Dash
+* Steam
+* etc.
 
 ### Very Incomplete Server
 
